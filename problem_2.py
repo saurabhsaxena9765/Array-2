@@ -1,3 +1,6 @@
+# TC: O(m*n)
+# SC: O(1)
+
 def gameOfLife(board):
         """
         Do not return anything, modify board in-place instead.
